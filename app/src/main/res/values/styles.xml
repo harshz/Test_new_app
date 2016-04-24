@@ -7,5 +7,6 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
-
+    <string name="facebook_app_id">839945239447459</string>
+    <string name="fb_login_protocol_scheme">fb839945239447459</string>
 </resources>
